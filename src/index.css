@@ -29,11 +29,11 @@
 .text-gradient {
   background: radial-gradient(
     64.18% 64.18% at 71.16% 35.69%,
-    #def9fa 0.89%,
-    #bef3f5 17.23%,
-    #9dedf0 42.04%,
+    #a0a5a5 0.89%,
+    #4e5353 17.23%,
+    #000000 42.04%,
     #e77deb 55.12%,
-    #e65ce6 71.54%,
+    #0e0d0e 71.54%,
     #bd33cf 100%
   );
   -webkit-background-clip: text;
