@@ -23,8 +23,9 @@ function App() {
           <div className={`${styles.boxWidth}`}>
             <Hero />
           </div>
-          {/* <Card/>   */}
         </div>
+
+
         <div className={` ${styles.paddingX} ${styles.flexStart}`}>
           <div className={`${styles.boxWidth}`}>
             <Services />
@@ -32,9 +33,7 @@ function App() {
             <CTA/>
             <Footer />
           </div>
-        </div>
-
-      
+        </div>   
 
 
     </div>

@@ -14,7 +14,7 @@ function Hero() {
       <Button styles="mt-10 "/>
     </div>
     <div className='flex-1 flex  justify-center items-center md:ml-10 ml-0 md:mt-0 mt-5 relative'>
-      <img src={app_scan} alt="card"  className="w-[100%] h-[100%] rotate-12 "/>
+      <img src={app_scan} alt="card"  className="w-[100%] h-[100%] rotate-12 shadow-sm"/>
     </div>
     
 

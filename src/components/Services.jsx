@@ -3,7 +3,7 @@ import { services } from "../constants"
 
 const ServiceCard=({icon, title, content, index})=>{
     return(
-        <div className="w-auto md:w-1/2 lg:w-1/3">
+        <div className="w-auto md:w-1/2 lg:w-1/3 ">
                         <div
                             className="py-8 px-5 mb-12 transform transition duration-300 ease-in-out hover:-translate-y-2"
                         >

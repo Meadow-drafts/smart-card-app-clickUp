@@ -8,7 +8,7 @@ import card_app from "./card-app.png"
 import cyan from "./cyan-ball.jpeg";
 import coinbase from "./coinbase.png";
 import dropbox from "./dropbox.png";
-import logo from "./logo.svg";
+import logo from "./logo.png";
 import quotes from "./quotes.svg";
 import robot from "./robot.png";
 import send from "./Send.svg";

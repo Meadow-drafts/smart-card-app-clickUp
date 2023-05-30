@@ -1,4 +1,4 @@
-
+import { logo } from "../assets"
 
 export default function Navbar() {
     return (
@@ -6,8 +6,8 @@ export default function Navbar() {
         <nav class="bg-white fixed w-full z-20 top-0 left-0 border-b shadow-md">
             <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
                 <a href="https://flowbite.com/" class="flex items-center">
-                    <img src="https://flowbite.com/docs/images/logo.svg" class="h-8 mr-3" alt="Flowbite Logo"/>
-                        <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Flowbite</span>
+                    <img src={logo} class="h-12 mr-3" alt="Flowbite Logo"/>
+                        <span class="self-center text-2xl font-semibold whitespace-nowra">Flowbite</span>
                 </a>
                 <div class="flex md:order-3">
                     <button type="button" class="text-black font-medium rounded-lg text-sm px-4 py-2 text-center mr-5">
