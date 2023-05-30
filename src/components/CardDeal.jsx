@@ -11,7 +11,7 @@ export default function CardDeal () {
        
     </div>
     <div className={`flex-1 flex justify-center items-start flex-col`}>
-      <h2 className={`font-poppins font-semibold xs:text-[48px] text-[40px] text-black  xs:leading-[76.8px] leading-[66.8px] w-full text-gradient`}>Download App </h2>
+      <h2 className={`font-poppins font-semibold xs:text-[48px] text-[40px] text-black  xs:leading-[76.8px] leading-[66.8px] w-full`}>Download App </h2>
       <p className={`font-poppins font-normal text-black  text-[18px] leading-[30.8px] max-w-[470px] mt-5`}>Register or login and a code will be provided for your institute to gain access to the app.</p>
       <div className='flex flex-row flex-wrap sm:mt-10 mt-6'>
         <img src={google} alt="apple_store" className='w-[128px] h-[42px] object-contain mr-5 cursor-pointer' />

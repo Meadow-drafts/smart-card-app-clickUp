@@ -32,7 +32,7 @@ export default function Services() {
                     <div className="w-full px-4">
                         <div className="mx-auto mb-12 max-w-[510px] text-center lg:mb-20">
                             <h2
-                                className="text-gradient mb-4 font-bold xs:text-[48px] text-[40px]"
+                                className="mb-4 font-bold xs:text-[48px] text-[40px]"
                             >
                                 What We Offer
                             </h2>

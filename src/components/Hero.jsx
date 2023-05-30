@@ -5,9 +5,9 @@ function Hero() {
 
 
   return (
-    <section id='home' className='flex md:flex-row flex-col sm:py-16 py-6'>
+    <section id='home' className='flex md:flex-row flex-col sm:py-16 py-10'>
     <div className='flex-1 flex justify-center items-start flex-col mt-0 md:-mt-60 '>
-      <h2 className='font-poppins font-semibold xs:text-[48px] text-[40px] text-black xs:leading-[76.8px] leading-[66.8px] w-full '>Your Ideal <br/> <span className='text-gradient'> Student Smart App </span></h2>
+      <h2 className='font-poppins font-bold xs:text-[48px] text-[40px] text-black xs:leading-[76.8px] leading-[66.8px] w-full '>Life Should Be Easy</h2>
       <p className='max-w-[480px]mt-5 font-poppins font-normal text-black text-[18px] leading-[30.8px]'>Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.</p>
       <Button styles="mt-10 "/>
     </div>
