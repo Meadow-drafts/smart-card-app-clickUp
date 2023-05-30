@@ -12,14 +12,14 @@ function App() {
   // const [count, setCount] = useState(0)
 
   return (
-    <div className="w-full overflow-hidden">
+    <div className="w-full overflow-hidden bg-gray-200">
       <div className={`${styles.paddingX} ${styles.flexCenter}`}>
         <div className={`${styles.boxWidth}`}>
           <Navbar />
         </div>
       </div>
       
-        <div className={`pt-10 sm:px-16 px-6 mx-2 my-auto ${styles.flexStart}`}>
+        <div className={`pt-10 sm:px-40 px-6 mx-2 my-auto ${styles.flexStart}`}>
           <div className={`${styles.boxWidth}`}>
             <Hero />
           </div>
