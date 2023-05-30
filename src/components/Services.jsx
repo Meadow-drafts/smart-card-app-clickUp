@@ -26,7 +26,7 @@ const ServiceCard=({icon, title, content, index})=>{
 export default function Services() {
     return (
 
-        <section className="pt-20 pb-12 mt-auto lg:pt-[100px] lg:pb-[90px]">
+        <section id='services' className="pt-20 pb-12 mt-auto lg:pt-[100px] lg:pb-[90px]">
             <div className="container mx-auto">
                 <div className="-mx-4 flex flex-wrap">
                     <div className="w-full px-4">

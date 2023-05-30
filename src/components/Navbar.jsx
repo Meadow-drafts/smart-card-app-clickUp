@@ -24,16 +24,16 @@ export default function Navbar() {
                 <div class="items-center justify-between hidden w-full md:flex md:w-auto md:order-1" id="navbar-sticky">
                     <ul class="flex flex-col p-4 md:p-0 mt-4 font-medium border border-gray-100 rounded-lg bg-gray-100 md:flex-row md:space-x-8 md:mt-0 md:border-0">
                         <li>
-                            <a href="#" class="block py-2 pl-3 pr-4 text-gray-900 hover:text-gray-400" aria-current="page">Home</a>
+                            <a href="#home" class="block py-2 pl-3 pr-4 text-gray-900 hover:text-gray-400" aria-current="page">Home</a>
                         </li>
                         <li>
-                            <a href="#" class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:text-gray-400">About</a>
+                            <a href="#services" class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:text-gray-400">Services</a>
                         </li>
                         <li>
-                            <a href="#" class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:text-gray-400">Services</a>
+                            <a href="#download" class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:text-gray-400">Download</a>
                         </li>
                         <li>
-                            <a href="#" class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:text-gray-400">Contact</a>
+                            <a href="#cta" class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:text-gray-400">CTA</a>
                         </li>
                     </ul>
                 </div>
