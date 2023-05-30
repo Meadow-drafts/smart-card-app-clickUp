@@ -1,4 +1,3 @@
-import styles from "../../style"
 import Button from "./Button"
 
 function CTA ()  {

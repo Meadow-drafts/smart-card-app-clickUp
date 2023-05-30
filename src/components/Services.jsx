@@ -1,7 +1,7 @@
 import { services } from "../constants"
 
 
-const ServiceCard=({icon, title, content, index})=>{
+const ServiceCard=({icon, title, content})=>{
     return(
         <div className="w-auto md:w-1/2 lg:w-1/3 ">
                         <div

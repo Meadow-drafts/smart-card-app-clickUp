@@ -1,7 +1,4 @@
-import styles from '../../style'
-import { layout } from '../../style'
-import Button from "./Button"
-import { cards,discover,card_app, google, apple } from "../assets"
+import { card_app, google, apple } from "../assets"
 
 
 export default function CardDeal () {
